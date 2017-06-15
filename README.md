@@ -1,2 +1,3 @@
 # Hello-World
-Test repo
+This is first step to get familier with Github.
+Soon will add some selenium stuff
